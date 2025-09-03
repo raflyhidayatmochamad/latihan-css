@@ -17,6 +17,11 @@ header {
 header .logo {
   font-weight: bold;
   font-size: 14px;
+  margin-left: 60px;
+  padding: auto;
+  position: absolute;
+  margin-top:10px ;
+  
 }
 
 header nav a {
@@ -73,4 +78,10 @@ footer {
   text-align: center;
   padding: 15px;
   font-size: 12px;
+}
+.lambang{
+  height: 36px;
+  width: 36px;
+  display: flex;
+
 }
