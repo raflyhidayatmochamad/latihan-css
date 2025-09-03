@@ -1,0 +1,22 @@
+
+        body{font-family: 'Courier New';
+            font-size: 20px;
+            font-variant: small-caps;
+            font-style: itaic;
+        }
+        h1{color: blueviolet;}
+        p{
+            line-height: 20px; 
+            color: rgb(14,14, 13);
+        }
+        a {
+  text-decoration: none;
+}
+
+body {
+    background-image: url("bg.jpg");
+    background-size: cover;      /* supaya gambar menutupi seluruh layar */
+    background-position: center; /* posisi gambar di tengah */
+    background-repeat: no-repeat; /* biar gambar tidak diulang */
+}
+
