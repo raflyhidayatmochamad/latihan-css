@@ -13,16 +13,57 @@
   text-decoration: none;
 }
 
-/* body {
-    background-image: url("bg.jpg");
-    background-size: cover;      
-    background-position: center; 
-    background-repeat: no-repeat; 
-    
-} */
+
 body{
     
-      background: url("bg.jpg") no-repeat center center/cover;
+      background: url("https://static.vecteezy.com/system/resources/previews/004/968/002/non_2x/cute-abstract-modern-background-free-vector.jpg") no-repeat center center/cover;
           min-height: 100vh;
+          body {
+  margin: 0;
+  padding: 0;
 }
+}
+
+.Nama-navbar {
+ list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #333333;
+}
+
+
+ul li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #333333;
+}
+
+ul li {
+  float: left;
+}
+
+ul li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+ul li a:hover {
+  background-color: #111111;
+}
+
 
